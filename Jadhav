@@ -1,0 +1,6 @@
+#include <stdio.h>    
+int main()
+{
+printf("Hello F.Y.CS");    
+return 0;   
+}  
